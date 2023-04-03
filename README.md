@@ -1,5 +1,5 @@
 PuppR ~ Anything is pawssible
-
+![image](https://user-images.githubusercontent.com/106751877/229514882-bf100611-c46c-4672-91e5-b60f5743be3c.png)
 Introduction
 The Project
 Every dog owner knows the struggle of moving to a new place and not knowing anyone else with a dog. However, dogs need to socialize too! This is why we created PuppR.
@@ -19,9 +19,9 @@ Tutorial
 Take a tour of the deployed version at puppr.best
 -> PuppR
 Here is a little preview of our main feature, the swiping through other dogs' profiles:
-
+![image](https://user-images.githubusercontent.com/106751877/229515716-ff948fb5-d927-4c21-9546-5154c4281c46.png)
 Here is a simple flow for the user experience on PuppR:
-
+![image](https://user-images.githubusercontent.com/106751877/229515605-6542195a-1cd4-49aa-9b13-a3609842fa21.png)
 Run PuppR with Vue-CLI
 Installing the programs necessary to view this project is pretty simple!
 We'll be using npm to install Vue and Vue-CLI. First clone this repo, then navigate to the root and install Vue by executing this command: puppr$ npm install vue
@@ -35,7 +35,7 @@ Issue when viewing on mobile. Many of the assets become squished vertically.
 Architecture
 Overview
 Our web app is a single-page app, coded mainly in Javascript. PuppR is front-end heavy, meaning that we focused our time and energy in developping a simple but easy to use and fun app. We designed most of the User Interface, using plain CSS and some native Vue transitions and animations. We also incorporated some BootstrapVue elements which offered a simple solution for some features like image uploading.
-
+![image](https://user-images.githubusercontent.com/106751877/229516092-11a0c418-cd2a-4b06-962d-e8a8dd60d7e5.png)
 Vue.js
 For this project, we decided to focus on learning a new front-end framework. Following the advice of mentors and professionals, we chose to learn and use Vue.js.
 Every different section of the app is a Vue component, and all the components can be found in the directory src/components/. The main component "App" is defined in App.vue, and is the entry point of the app.
